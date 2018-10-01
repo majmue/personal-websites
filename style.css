@@ -1,0 +1,86 @@
+body {
+  width: auto;
+  height: auto;
+  margin: 0 3em 0 3em;
+}
+
+.portrait-img {
+  width: 300px;
+  margin-top: 3em;
+}
+
+.wrapper-img-about {
+  display: flex;
+  height: 400px;
+  width: 400px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.wrapper-text-about {
+  display: flex;
+  height: 400px;
+  width: auto;
+  flex-direction: column;
+  justify-content: stretch;
+}
+
+.titel-about {
+  height: 2em;
+  width: 10em;
+  margin-top: 3em;
+  padding: 0.5em;
+  background-color: blueviolet;
+}
+
+.article-about {
+  background-color: white;
+  padding: 2em;
+}
+.titel-portfolio {
+  height: 2em;
+  width: 10em;
+  margin-top: 3em;
+  padding: 0.5em;
+  background-color: green;
+}
+
+.article-portfolio1 {
+  background-color: white;
+  margin: 0 1em 1em 1em;
+  padding: 2em;
+}
+
+.article-portfolio2 {
+  background-color: white;
+  margin: 0 1em 1em 1em;
+  padding: 2em;
+}
+.titel-like {
+  height: 2em;
+  width: 10em;
+  margin-top: 3em;
+  padding: 0.5em;
+  background-color: grey;
+}
+.like-img {
+  height: 30%;
+  width: 30%;
+  margin: 1em;
+}
+.wrapper-img-like {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: auto;
+  width: auto;
+}
+.title-contact {
+  height: 2em;
+  width: 10em;
+  margin-top: 3em;
+  padding: 0.5em;
+  background-color: white;
+}
