@@ -64,8 +64,9 @@ body {
   background-color: grey;
 }
 .like-img {
-  height: 30%;
-  width: 30%;
+  height: 50%;
+  width: 50%;
+  min-width: 200px;
   margin: 1em;
 }
 .wrapper-img-like {
